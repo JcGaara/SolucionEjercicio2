@@ -1,0 +1,15 @@
+.glyphicon {
+    cursor: pointer;
+}
+
+input, select{
+    width: 100%;
+}
+
+.second, .glyphicon-chevron-down, .glyphicon-chevron-up{
+    color: red;
+}
+.starter-template {
+     padding: 40px 15px;
+
+ }
